@@ -44,9 +44,19 @@ Toutes les contributions, qu'elles soient sur le sol ou numériques, sont préci
 
 Pour toute question concernant le groupe Éco-Lycéens ou ce dépôt GitHub :
 
-*   Contacte nous à travers l'addresse mail suivant : 
+*   Contacte nous à travers l'addresse mail et en citant ("É-L - Réseaux B [division]")* suivant : eco.lycee@lfgermain.com
+*      *En citant [("É-L - Réseaux B [division]")], votre message sera automatiquement transférer vers les contributeurs  principales
 *   Tu peux aussi t'adresser directement à un membre identifié du groupe au lycée.
+
+## Contributors
+
+The following list are **current** (including previous) contributors of the **LFSG Éco-Lycéens - Website git** :
+
+*   **Yanis T. :** under the username : *lon-legendofnothing*
+               * **Role:** Web Manager 
+*   **Andrej V. :** under the username : *avscience*
+               * **Role:** Web Manager 
 
 ---
 
-Merci de ton intérêt pour les Éco-Lycéens du Lycée Français Sophie Germain ! Ensemble, faisons bouger les choses pour l'environnement.
+Merci de votre intérêt pour les Éco-Lycéens du Lycée Français Sophie Germain !
