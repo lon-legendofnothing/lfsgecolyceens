@@ -55,7 +55,7 @@ The following list are **current** (including previous) contributors of the **LF
 
 *   **Yanis T. :** under the username : *lon-legendofnothing*      /      **Role:** Web Manager 
 *   **Andrej V. :** under the username : *avscience*      /      **Role:** Web Manager 
-*   **Mehdi E. :** under the username : *ennassirimehdi*      /      **Role:** Web Manager 
+*   **Mehdi E. :** under the username : *ennassimehdi*      /      **Role:** Web Manager 
 
 ---
 
