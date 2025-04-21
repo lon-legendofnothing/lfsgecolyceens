@@ -44,8 +44,9 @@ Toutes les contributions, qu'elles soient sur le sol ou numériques, sont préci
 
 Pour toute question concernant le groupe Éco-Lycéens ou ce dépôt GitHub :
 
+*   Vous pouvez nous donner des commentaires sur tout genres sur le présent formulaire : WiP
+
 *   Contacte nous à travers l'addresse mail et en citant ("É-L - Réseaux B [division]")* suivant : eco.lycee@lfgermain.com
-En citant [("É-L - Réseaux B [division]")], votre message sera automatiquement transférer vers les contributeurs principales.
 
 *   Tu peux aussi t'adresser directement à un membre identifié du groupe au lycée.
 
